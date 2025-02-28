@@ -1,0 +1,5 @@
+pandas==2.2.1
+surprise==0.1
+fuzzywuzzy==0.18.0
+sqlalchemy==2.0.29
+python-Levenshtein==0.25.0
